@@ -13,3 +13,4 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 * Estudo Livre - O que estiver afim de estudar/reforçar/conhecer ferramentas para projetos futuros
 
 **II Coríntios 12:14b-15a: "...os filhos não devem ajuntar riquezas para os pais, mas os pais para os filhos. Assim, de boa vontade, por amor de vocês, gastarei tudo o que tenho e também me desgastarei pessoalmente. Visto que os amo tanto..."**
+*Aimée e Abner*
