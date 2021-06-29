@@ -16,13 +16,17 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 *Aimée e Abner*
 
 ### Ruby on Rails - Intermediário
-* Action Controller - **ok**
-* Routes - **ok**
-* Action View - **ok**
-* Conhecendo Action Pack
+* Action Controller - **ok** 28/06
+* Routes - **ok** 28/06
+* Action View - **ok** 28/06
+* Conhecendo Action Pack 30/06
 
 ### Projeto Score
 * **Verificar repositório para acompanhamento**
 
 ### Elixir
-* Básico (tipos, variáveis, comparadores, interpolação de strings, operações) - **ok**
+* Básico (tipos, variáveis, comparadores, interpolação de strings, operações) - **ok** 29/06
+
+### Inglês
+* Primeiros Passos 4/4 - **ok** 29/06
+* Módulo 1 3/9 - 29/06
