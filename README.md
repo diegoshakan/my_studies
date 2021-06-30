@@ -32,5 +32,5 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 * Módulo 1 3/9 - 29/06
 
 ### VueJs
-* Escutando eventos (v-on click e v-on mousemove) 30/06
-  * Manipulando dados em varíaveis atráves de eventos 30/06
+* Escutando eventos (v-on click e v-on mousemove) **ok** 30/06
+  * Manipulando dados em varíaveis atráves de eventos **ok** 30/06
