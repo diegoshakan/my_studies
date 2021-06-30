@@ -15,6 +15,8 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 **II Coríntios 12:14b-15a: "...os filhos não devem ajuntar riquezas para os pais, mas os pais para os filhos. Assim, de boa vontade, por amor de vocês, gastarei tudo o que tenho e também me desgastarei pessoalmente. Visto que os amo tanto..."**
 *Aimée e Abner*
 
+# Diário de Estudos
+
 ### Ruby on Rails - Intermediário
 * Action Controller - **ok** 28/06
 * Routes - **ok** 28/06
