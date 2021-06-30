@@ -19,7 +19,7 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 * Action Controller - **ok** 28/06
 * Routes - **ok** 28/06
 * Action View - **ok** 28/06
-* Conhecendo Action Pack 30/06
+* Conhecendo Action Pack (Sessions, Login com Facebook, omniauth) - **ok** 30/06
 
 ### Projeto Score
 * **Verificar repositório para acompanhamento**
