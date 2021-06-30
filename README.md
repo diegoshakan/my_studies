@@ -1,4 +1,4 @@
-## Agenda
+# Agenda
 **Foco e disciplina, degraus para o sucesso!** <br />
 **Duração deste cronograma**: *28/06 - 28/09*
 Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
