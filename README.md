@@ -30,3 +30,7 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 ### Inglês
 * Primeiros Passos 4/4 - **ok** 29/06
 * Módulo 1 3/9 - 29/06
+
+### VueJs
+* Escutando eventos (v-on click e v-on mousemove) 30/06
+  * Manipulando dados em varíaveis atráves de eventos 30/06
