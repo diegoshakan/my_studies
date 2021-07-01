@@ -28,6 +28,7 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 
 ### Elixir
 * Básico (tipos, variáveis, comparadores, interpolação de strings, operações) - **ok** 29/06
+* Coleções (listas, tuplas, mapas) - **ok** 01/07
 
 ### Inglês
 * Primeiros Passos 4/4 - **ok** 29/06
