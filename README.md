@@ -38,4 +38,4 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 ### VueJs
 * Escutando eventos (v-on click e v-on mousemove) **ok** 30/06
   * Manipulando dados em varíaveis atráves de eventos **ok** 30/06
-  * Manipulando eventos **ok** 09/09
+  * Manipulando eventos (mouse e teclado) **ok** 09/09
