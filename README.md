@@ -1,11 +1,13 @@
 # Agenda
 **Foco e disciplina, degraus para o sucesso!** <br />
 **Duração deste cronograma**: *28/06 - 28/09*
+<br />
 Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 05:15 | Ruby on Rails  | Elixir | VueJS | Projeto Score | Inglês | Estudo Livre |
 | 06:20 | Projeto Score | Inglês | Ruby on Rails | Elixir | Ruby on Rails | Estudo Livre |
 | 07:30 | Academia | Academia | Academia | Academia | Academia | Livre|
+<br />
 * Ruby on Rails - TreinaWeb
 * Elixit - Elixir School
 * VueJS - Cod3r
@@ -38,4 +40,4 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 ### VueJs
 * Escutando eventos (v-on click e v-on mousemove) **ok** 30/06
   * Manipulando dados em varíaveis atráves de eventos **ok** 30/06
-  * Manipulando eventos (mouse e teclado) **ok** 09/09
+  * Manipulando eventos (mouse e teclado) **ok** 09/09 - próxima aula - video 19 - two way bind
